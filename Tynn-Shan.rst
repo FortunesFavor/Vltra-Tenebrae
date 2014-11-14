@@ -20,7 +20,7 @@ Tynn-Shan
     | Healthy | Injured | Wounded | Unconcious |
     +---------+---------+---------+------------+
 
-:Threshold: [10]
+:Threshold: [6]
 :Action Points: [20]
 :Edge: [1]
 
@@ -101,7 +101,7 @@ Tynn-Shan
           
     * Augmented Healing [5]
           
-          Tynn's more durable than an average Rayyan, her skin healing superficial wounds incredibly quickly. This ability acts like an armor with a rating of [5]
+          Tynn's more durable than an average Rayyan, her skin healing superficial wounds incredibly quickly. This ability acts like an armor with a rating of [1]
     
 **Gear**
     * `Ancient Skystone Spear <http://fc02.deviantart.net/fs70/i/2011/252/8/d/___akouma_s_spear____by_wolfies73-d4163dz.jpg>`_ [7] [FREE]
