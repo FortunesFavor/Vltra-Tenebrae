@@ -63,7 +63,7 @@ Tynn-Shan
     
     :Lift/Carry/Haul: 10
     
-    :Spear  : 10
+    :Spear: 10
     
     :Unarmed: 5
 
@@ -85,12 +85,15 @@ Tynn-Shan
           Tynn see's on the full EM spectrum, able to focus her eyes beyond the human visible range and see in Infrared and Ultraviolet, as well as detect Electronic radiation. 
     
     * Cat-like Grace [5]
+          
           Tynn is almost superhumanly agile, as such she receives a bonus of [5] towards Parkour, and may gain advantage by spending [5] AP on any Reflex roll
     
     * Augmented Strength [10]
+          
           Tynn's strength was heavily modified by the Parasite, granting her the ability to lift several times her own weight. At a cost of [10] AP, she can make a Lift/Carry/Haul check versus any weight up to 100 tonnes.
           
     * Augmented Healing [5]
+          
           Tynn's more durable than an average Rayyan, her skin healing superficial wounds incredibly quickly. This ability acts like an armor with a rating of [5]
     
 **Gear**
