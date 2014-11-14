@@ -77,8 +77,7 @@ Raisha
     3
 
 **Traits**
-    
-    * Gadgets: 
+   * Gadgets: 
 
           You carry an assortment of small gadgets suitable for almost any purpose. At a cost of 5 AP you may gain advantage on any non-combat roll where a tool would be helpful
 
@@ -100,7 +99,6 @@ Raisha
           
 
 **Gear**
-    
     * Internal Commlink
 
           Provides the ability to communicate sub-vocally over Tacnet and Starnet
