@@ -77,26 +77,25 @@ Raisha
     3
 
 **Traits**
-   * Gadgets: 
-
+    * Gadgets: 
+          
           You carry an assortment of small gadgets suitable for almost any purpose. At a cost of 5 AP you may gain advantage on any non-combat roll where a tool would be helpful
-
+          
     * Adaptive Pigment: 
-
+          
             Volmir are able to dynamically adapt their skin pigment to adjust for their planets shifting atmosphere. This ability can be used to gain advantage on stealth checks by spending 2 AP, and blending in to the surrounding. 
  
     * Self-Sustained:
- 
+           
             Raisha is able to go long periods without sleep, food, or water, and regenerates Action Points at twice the rate of normal.
     
     * Overload: 
-
+          
             Raisha is able to emit an electronic pulse at a device, causing it to malfunction and require repairs. At a cost of 10 AP, the device is permanently disabled until such a time as it can be repaired.
   
     * Perfect Balance: 
-
+          
             Grants a +3 to Reflex checks requiring balance, such as climbing, dodging, running, or jumping
-
 
 **Gear**
     * Internal Commlink
