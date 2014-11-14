@@ -22,7 +22,7 @@ Daryn
 
 **Ambition Aspect**
 
-    Indented text goes here for the aspect
+    "A Fleet with my name on it"
 
 **Background Aspect**
 
@@ -54,7 +54,7 @@ Daryn
 
 **Inferior Skill Aspect**
 
-    Indented text goes here for the aspect
+    "Broadsides of barns are safe from me"
 
 
 :Body:
