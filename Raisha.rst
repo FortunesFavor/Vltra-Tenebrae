@@ -70,6 +70,7 @@ Raisha
     :Firearms: 5
 :Wits:
     4
+    
     :Hacking: 10
 
 :Persona:
