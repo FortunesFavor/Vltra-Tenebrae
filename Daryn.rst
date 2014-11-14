@@ -26,31 +26,31 @@ Daryn
 
 **Background Aspect**
 
-    Indented text goes here for the aspect
+    Patron of Jean's Exotic (Dive strip club)
 
 **Conviction Aspect**
 
-    Indented text goes here for the aspect
+    "My skin will stay in one piece, thank you very much"
 
-**Disadvantage Aspect**
+**Dilemma Aspect**
 
-    Indented text goes here for the aspect
+    "Cargo is Cargo, bullets, beans, or blondes."
 
 **Exceptional Skill Aspect**
 
-    Indented text goes here for the aspect
+    "We will have that fixed up for you in a couple of hours"
 
 **Foe Aspect**
 
-    Indented text goes here for the aspect
+    "This is a cutthroat business"
 
 **Gear Aspect**
 
-    Indented text goes here for the aspect
+    RST-8569 *M/V Noble*
 
 **Help Aspect**
 
-    Indented text goes here for the aspect
+    Acadamy Buddies
 
 **Inferior Skill Aspect**
 
@@ -75,11 +75,13 @@ Daryn
 
     
 **Traits**
+
 * Example Trait
 
     Description
 
 **Gear**
+
 * Example Gear
 
     Description
