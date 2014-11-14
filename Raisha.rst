@@ -14,29 +14,29 @@ Raisha
     | Healthy | Injured | Wounded | Unconcious |
     +---------+---------+---------+------------+
 
-:Threshold: [5]
+:Threshold: [0]
 :Action Points: [20]
 :Edge: [1]
 
 **Character Concept**
 
-    Indented text goes here for the aspect
+    Volmir Pilgrim
 
 **Ambition Aspect**
 
-    Indented text goes here for the aspect
+    Great Adma
 
 **Background Aspect**
 
-    Indented text goes here for the aspect
+    Flew the Coup
 
 **Conviction Aspect**
 
-    Indented text goes here for the aspect
+    Possession is nine-tenths of the law
 
-**Disadvantage Aspect**
+**Dilemma Aspect**
 
-    Indented text goes here for the aspect
+    By any means neccessary...
 
 **Exceptional Skill Aspect**
 
@@ -44,7 +44,7 @@ Raisha
 
 **Foe Aspect**
 
-    Indented text goes here for the aspect
+    Some weird Luminar thing
 
 **Gear Aspect**
 
@@ -52,7 +52,7 @@ Raisha
 
 **Help Aspect**
 
-    Indented text goes here for the aspect
+    My Clan has my back
 
 **Inferior Skill Aspect**
 
