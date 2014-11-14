@@ -76,12 +76,4 @@ Daryn
     
 **Traits**
 
-* Example Trait
-
-    Description
-
 **Gear**
-
-* Example Gear
-
-    Description
