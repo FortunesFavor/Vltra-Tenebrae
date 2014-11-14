@@ -93,11 +93,11 @@ Tynn-Shan
 **Gear**
     * Ancient Skystone Spear [7] [FREE]
 
-          This ancient spear, found in an old derelict ship, emits a lethal electric current from its bladed tip. 5 Damage + 2 Electrical Damage
+          This ancient spear, found in an old derelict ship, emits a lethal atomic current from its bladed tip. 5 Damage + 2 Electrical Damage
           
     * Outfit [4]
          
-          Her outfit consists of a skintight fabric that reduces noise and EM radiation, and has a mask that makes it vacuum sealed for space. +2 to Reflex checks for Sneaking; self-contained atmosphere
+          Her outfit consists of a skintight fabric that reduces noise and EM radiation, and has a mask that makes it vacuum sealed for spaaace. +2 to Reflex checks for Sneaking; self-contained atmosphere
     
     * Survival Kit [10]
          
