@@ -18,11 +18,11 @@ Daryn
 
 **Character Concept**
 
-    Interstellar Tow Truck Driver
+    Hitman
 
 **Ambition Aspect**
 
-    "A Fleet with my name on it"
+    Pass
 
 **Background Aspect**
 
@@ -30,46 +30,44 @@ Daryn
 
 **Conviction Aspect**
 
-    "My skin will stay in one piece, thank you very much"
+    Pass
 
 **Dilemma Aspect**
 
-    "Cargo is Cargo, bullets, beans, or blondes."
+    Pass
 
 **Exceptional Skill Aspect**
 
-    "We will have that fixed up for you in a couple of hours"
+    Pass
 
 **Foe Aspect**
 
-    "This is a cutthroat business"
+    Pass
 
 **Gear Aspect**
 
-    RST-8569 *M/V Noble*
+    Pass
 
 **Help Aspect**
 
-    Acadamy Buddies
+    Pass
 
 **Inferior Skill Aspect**
 
-    "Broadsides of barns are safe from me"
+    Pass
 
 
 :Body:
     5
 
-    :Wrestling: 5
-    :Shooting: 5
+    :Melee: 5
+    :Firearms: 5
 :Reflexes:
     5
 
-    :Piloting: 10
 :Wits:
     5
 
-    :Repair: 10
 :Persona:
     5
 
