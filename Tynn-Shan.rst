@@ -62,7 +62,9 @@ Tynn-Shan
     5
     
     :Lift/Carry/Haul: 10
+    
     :Spear  : 10
+    
     :Unarmed: 5
 
 :Reflexes:
