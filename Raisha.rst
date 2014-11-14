@@ -97,7 +97,8 @@ Raisha
     * Perfect Balance: 
             
             Grants a +3 to Reflex checks requiring balance, such as climbing, dodging, running, or jumping
-            
+          
+
 **Gear**
     
     * Internal Commlink
