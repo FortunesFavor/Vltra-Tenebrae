@@ -11,7 +11,7 @@ Tynn-Shan
    :width: 200 px
    :scale: 50 %
    :alt: Tynn-Shan
-   :align: right
+   :align: center
 
 :Level: [1]
 :Health:
