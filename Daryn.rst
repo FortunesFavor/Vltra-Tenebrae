@@ -59,19 +59,21 @@ Daryn
 
 :Body:
     5
-    
+
+    :Wrestling: 5
+    :Shooting: 5
 :Reflexes:
     5
-    
-    :Piloting: 10
 
+    :Piloting: 10
 :Wits:
     5
 
+    :Repair: 10
 :Persona:
     5
-    :Repair: 10
 
+    
 **Traits**
 * Example Trait
 
