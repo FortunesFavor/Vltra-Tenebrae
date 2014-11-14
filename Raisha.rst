@@ -60,29 +60,20 @@ Raisha
 
 
 :Body:
-    0
+    3
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
 :Reflexes:
-    0
+    5
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    :Stealth: 10
+    :Perception: 10
+    :Firearms: 5
 :Wits:
-    0
+    4
+    :Hacking: 10
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
 :Persona:
-    0
-
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    3
 
 **Traits**
     * Example Trait
