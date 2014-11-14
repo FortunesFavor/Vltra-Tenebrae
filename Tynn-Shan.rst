@@ -46,7 +46,7 @@ Tynn-Shan
 
 **Exceptional Skill Aspect**
 
-    Primitive Nomadic Hunter [Spear]
+    Primitive Nomadic Hunter [Melee]
 
 **Foe Aspect**
 
@@ -61,39 +61,42 @@ Tynn-Shan
     The Shamen of Koh
 
 **Inferior Skill Aspect**
-
-    Flailing Fists [Unarmed]
+    
+    Gentle Appearance [Intimidation]
+    
 
 
 :Body:
     5
     
-    :Lift/Carry/Haul: 10
+    :Lift/Carry/Haul: 5
     
-    :Spear: 10
+    :Melee: 10
     
-    :Unarmed: 5
-
+    
 :Reflexes:
     5
 
     :Parkour: 5
-    :Perception: 5
+    :Perception: 10
 
 :Wits:
     3
 
 :Persona:
     2
+    
+    :Intimidate: 5
 
 **Traits**
     * Full EM Vision [5]
 
           Tynn see's on the full EM spectrum, able to focus her eyes beyond the human visible range and see in Infrared and Ultraviolet, as well as detect Electronic radiation. 
     
-    * Cat-like Grace [5]
-          
-          Tynn is almost superhumanly agile, as such she receives a bonus of [5] towards Parkour, and may gain advantage by spending [5] AP on any Reflex roll
+    * Tail Strike [5]
+        
+            Tynn is able to strike with the retractable stinger on her tail, causing DMG [5] 
+            
     
     * Augmented Strength [10]
           
