@@ -62,7 +62,7 @@ Tynn-Shan
 
 **Inferior Skill Aspect**
 
-    Indented text goes here for the aspect
+    Flailing Fists [Unarmed]
 
 
 :Body:
