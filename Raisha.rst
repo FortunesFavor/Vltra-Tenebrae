@@ -14,7 +14,7 @@ Raisha
     | Healthy | Injured | Wounded | Unconcious |
     +---------+---------+---------+------------+
 
-:Threshold: [3]
+:Threshold: [5]
 :Action Points: [20]
 :Edge: [1]
 
@@ -120,3 +120,7 @@ Raisha
     * Datapad 
     
             A handheld computer with starnet uplink
+            
+    * Sub-Dermal Plating
+            
+            Provides a bonus of +2 to Health Threshhold
