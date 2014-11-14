@@ -7,6 +7,7 @@ Tynn-Shan
     Her attire consists of a hooded robe made of a foreign material, which clings tightly to her body. Her voice has a soft echo to it, as if passing through some sort of filter. 
 
 .. image:: https://i.imgur.com/FYhNeKw.jpg
+    :scale: 50 %
 
 :Level: [1]
 :Health:
