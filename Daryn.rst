@@ -8,9 +8,9 @@ Daryn
 :Level: [1]
 :Health:
 
-    +---------+---------+---------+------------+
-    | Healthy | Injured | Wounded | Unconcious |
-    +---------+---------+---------+------------+
+    +---------+---------+---------+-------------+
+    | Healthy | Injured | Wounded | Unconscious |
+    +---------+---------+---------+-------------+
 
 :Threshold: [5]
 :Action Points: [20]
@@ -18,7 +18,7 @@ Daryn
 
 **Character Concept**
 
-    Indented text goes here for the aspect
+    Interstellar Tow Truck Driver
 
 **Ambition Aspect**
 
@@ -58,36 +58,26 @@ Daryn
 
 
 :Body:
-    0
-
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    5
+    
 :Reflexes:
-    0
+    5
+    
+    :Piloting: 10
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
 :Wits:
-    0
+    5
 
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
 :Persona:
-    0
-
-    :Skill 1: 0
-    :Skill 2: 0
-    :Skill 3: 0
+    5
+    :Repair: 10
 
 **Traits**
-    * Example Trait
+* Example Trait
 
-          Description
+    Description
 
 **Gear**
-    * Example Gear
+* Example Gear
 
-          Description
+    Description
