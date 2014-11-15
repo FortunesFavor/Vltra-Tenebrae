@@ -76,13 +76,11 @@ Daryn
     :Intimidation: 5
     
 **Traits**
-
     * Blank: 
           
           YouDescription
 
 **Gear**
-    
     * Sig Saur GP 1100 Prototype [DMG 5] [Free]
             
             This gun, fresh off the R&D lab table it was stolen from, fires a .380 round at sub-sonic speeds, by accelerating it through a Gauss Coil. The firearm is whisper quiet, and capable of full auto with little to no recoil. The gun does DMG [5].
