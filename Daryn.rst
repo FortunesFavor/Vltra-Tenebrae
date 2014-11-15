@@ -76,9 +76,38 @@ Daryn
     :Intimidation: 5
     
 **Traits**
-    * Blank: 
+    * Double Tap: 
           
-          YouDescription
+          Spending 5 AP will allow you to make an immediate second attack
+    
+    * Assassin's Strike:
+            
+            Given a round of preparation time to study your target, you may spend [5] AP to add 1 to your weapons DMG
+
+    * Promise of Pain
+            
+            Instead of an Evasion attempt, you may spend 2 AP to make an immediate counter-attack
+
+    * Crippling Blow 
+    
+            Using Martial Arts you may spend [2 AP] to stun your opponent for one turn. The stunned oponent cannot take any action including evasion.
+
+    * Smart Ass
+    
+            With a biting sarcasm, you are able to gain Advantage in social combat at a cost of 5 AP
+
+    * Tactical Redirect
+    
+            Instead of an Evasion attempt, you may spend 2 AP to redirect a melee strike to a neighboring opponent 
+
+    * Spacial Awareness
+    
+            Spending [2 AP] you are able to analyze the scene for potential sources of Advantage, such as shoot out lights or bursting pipes for cover
+
+
+    * Grappler 
+    
+            Spending [2 AP] after a successful melee attack allows you to pull your opponent into a hold, allowing you to easily execute them, use them as a human shield, throw them, or restrain them. The held opponent is able to make Body + Melee/Lift checks to try to break free each round they are held
 
 **Gear**
     * Sig Saur GP 1100 Prototype [DMG 5] [Free]
