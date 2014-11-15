@@ -3,9 +3,7 @@ Raisha
 
 **Description**
 
-    Description goes here, indented 4 spaces
-
-.. image:: https://i.imgur.com/w6shEXU.jpg
+    .. image:: https://i.imgur.com/w6shEXU.jpg
 
 :Level: [1]
 :Health:
